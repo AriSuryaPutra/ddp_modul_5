@@ -1,0 +1,8 @@
+1. Struktur Perulangan For
+Struktur perulangan / pengulangan jenis for biasanya digunakan untuk melakukan perulangan yang telah diketahui banyaknya. 
+
+2. Struktur Perulangan While
+Struktur perulangan while adalah perulangan yang melakukan pemeriksaan kondisi di awal blok perulangan. 
+
+3. Struktur Perulangan Do-While
+Berbeda dengan struktur while yang melakukan pemeriksaan kondisi di awal blok perulangan, pada struktur do-while kondisi justru ditempatkan di bagian akhir.
